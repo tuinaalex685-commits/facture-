@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Plus, Search, MoreVertical, Edit2, Trash2 } from "lucide-react";
+import { Plus, Search, MoreVertical, Edit2, Trash2, Users } from "lucide-react";
 import { supabase } from "@/lib/supabase";
 import ClientModal from "@/components/clients/ClientModal";
 
